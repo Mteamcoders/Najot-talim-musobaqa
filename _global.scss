@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1200px;
+    width: 100%;
+}
+ @font-face {
+    font-family: "Regular";;
+    src: url(.././assets/fonts/Montserrat-Regular.ttf);
+ }
+ @font-face {
+    font-family: "Medium";;
+    src: url(.././assets/fonts/Montserrat-Medium.ttf);
+ }
+ @font-face {
+    font-family: "SemiBold";;
+    src: url(.././assets/fonts/Montserrat-SemiBold.ttf);
+ }
